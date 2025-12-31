@@ -3646,9 +3646,9 @@ textarea.form-control-lg {
 .subnav .nav-link {
     font-size: 0.85rem; 
     padding-top: 0.25rem;
-    padding-bottom: 0.25rem;
+    padding-bottom: 0.10rem;
     padding-left: 2rem; 
-    opacity: 0.85;
+    opacity: 0.7;
 }
 
 .nav-tabs {
