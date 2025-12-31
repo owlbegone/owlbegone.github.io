@@ -3643,6 +3643,14 @@ textarea.form-control-lg {
   cursor: default;
 }
 
+.subnav .nav-link {
+    font-size: 0.85rem; 
+    padding-top: 0.25rem;
+    padding-bottom: 0.25rem;
+    padding-left: 2rem; 
+    opacity: 0.85;
+}
+
 .nav-tabs {
   --bs-nav-tabs-border-width: 1px;
   --bs-nav-tabs-border-color: #dee2e6;
