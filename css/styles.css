@@ -11010,6 +11010,7 @@ h4 a:hover, h5 a:hover, h6 a:hover {
   flex: 0 0 40%; 
   width: 40%;
   max-width: 500px;
+  margin-bottom: 3rem;
 }
 .project-text {
   flex: 1;
