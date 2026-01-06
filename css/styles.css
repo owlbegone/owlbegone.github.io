@@ -10986,3 +10986,12 @@ h1 a:hover, h2 a:hover, h3 a:hover,
 h4 a:hover, h5 a:hover, h6 a:hover {
   color: var(--bs-link-hover-color);
 }
+.myImageLayout {
+  float: left;
+  height: 100px;
+  width: 100px;
+  font-family: Veranda;
+}
+.imageHeading {
+  float: right;
+}
