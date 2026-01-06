@@ -11004,7 +11004,7 @@ h4 a:hover, h5 a:hover, h6 a:hover {
   display: flex;
   gap: 2rem;
   margin-bottom: 3rem;
-  align-items: flex-start;
+  align-items: center;
 }
 .project-image {
   flex: 0 0 40%; 
