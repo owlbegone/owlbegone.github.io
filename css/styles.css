@@ -11007,6 +11007,7 @@ h4 a:hover, h5 a:hover, h6 a:hover {
   align-items: flex-start;
 }
 .project-image {
+  flex: 0 0 40%; 
   width: 40%;
   max_width: 500px;
 }
