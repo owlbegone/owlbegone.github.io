@@ -10988,8 +10988,14 @@ h4 a:hover, h5 a:hover, h6 a:hover {
 }
 .myImageLayout {
   float: left;
-  font-family: Veranda;
+  margin-right: 2rem;
+  margin-bottom: 1rem;
 }
 .imageHeading {
   float: right;
+}
+.resume-section-content::after {
+  content: "";
+  display: block;
+  clear: both;
 }
