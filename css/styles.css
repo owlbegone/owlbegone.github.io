@@ -11000,3 +11000,16 @@ h4 a:hover, h5 a:hover, h6 a:hover {
   display: block;
   clear: both;
 }
+.project-block {
+  display: flex;
+  gap: 2rem;
+  margin_bottom: 3rem;
+  align-items: flex-start;
+}
+.project-image {
+  width: 40%;
+  max_width: 500px;
+}
+.project-text {
+  flex: 1;
+}
