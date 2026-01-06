@@ -11011,6 +11011,8 @@ h4 a:hover, h5 a:hover, h6 a:hover {
   width: 40%;
   max-width: 500px;
   border-radius: 15px;
+  border-width: 2px;
+  border-color: Black;
 }
 .project-text {
   flex: 1;
